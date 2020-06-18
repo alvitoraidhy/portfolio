@@ -1,3 +1,4 @@
+
 +++
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
@@ -19,33 +20,22 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "freeCodeCamp"
+  organization_url = "https://www.freecodecamp.org"
+  title = "Responsive Web Design"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
+  certificate_url = "https://www.freecodecamp.org/certification/alvitoraidhy/responsive-web-design"
+  date_start = "2020-04-22"
+  date_end = "2020-04-26"
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
-
+  organization = "Udacity"
+  organization_url = "https://www.udacity.com/"
+  title = "Full-Stack Nanodegree"
+  url = "https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044"
+  certificate_url = ""
+  date_start = "2020-05-02"
+  date_end = "2020-06-02"
+  description = "Finished 4 out of 5 projects"
 +++
