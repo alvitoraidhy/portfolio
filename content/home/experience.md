@@ -26,6 +26,7 @@ date_format = "Jan 2006"
   date_end = "2018-07-09"
   description = """
   Responsibilities include:
+  
   * Modelling database structure
   * Designing API endpoints
   * Creating basic front-end

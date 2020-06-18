@@ -43,7 +43,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/alvitoraidhy
 - icon: linkedin
-  icon_pack: fa
+  icon_pack: fab
   link: https://linkedin.com/in/alvitoraidhy
 - icon: github
   icon_pack: fab
