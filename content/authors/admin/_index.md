@@ -29,7 +29,7 @@ education:
   courses:
   - course: Student
     institution: Senior High School 8 Bandung
-    year: 2018-present
+    year: 2018 - present
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
