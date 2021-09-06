@@ -23,6 +23,9 @@ education:
     - course: Electrical Engineering Undergraduate
       institution: Widyatama University
       year: 2021 - present
+    - course: Full Stack Web Developer Nanodegree
+      institution: Udacity
+      year: 2020
 superuser: true
 highlight_name: false
 title: Alvito Raidhy Trinanda
