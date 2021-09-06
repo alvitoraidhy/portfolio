@@ -1,6 +1,5 @@
 ---
 role: Electrical Engineering Undergraduate
-avatar_filename: img_2322.png
 bio: ""
 interests:
   - Web Applications (SPA/PWA/Traditional)
