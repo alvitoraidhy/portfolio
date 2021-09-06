@@ -2,8 +2,7 @@
 role: Electrical Engineering Undergraduate
 bio: ""
 interests:
-  - Web Applications (SPA
-  - PWA and Traditional Web Applications)
+  - Web Applications (SPA/PWA/Traditional Web Applications)
   - Internet of Things
   - Embedded Systems
   - Machine Learning
