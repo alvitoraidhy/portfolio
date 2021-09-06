@@ -23,11 +23,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: "Full-Stack Developer"
-    company = "iotKu Development Team"
-    company_url = "https://github.com/aviezab/iotku"
-    location = "Indonesia"
-    date_start = "2018-02-01"
-    date_end = "2018-07-09"
+    company: "iotKu Development Team"
+    company_url: "https://github.com/aviezab/iotku"
+    location: "Indonesia"
+    date_start: "2018-02-01"
+    date_end: "2018-07-09"
     description: |2-
         Responsibilities include:
 
