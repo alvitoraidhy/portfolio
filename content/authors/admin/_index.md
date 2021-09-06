@@ -3,7 +3,7 @@ role: Electrical Engineering Undergraduate
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Web Applications (SPA/PWA/Traditional)
+  - SPA/PWA/Traditional Web Applications
   - Internet of Things
   - Embedded Systems
   - Machine Learning
@@ -20,7 +20,7 @@ social:
 organizations: []
 education:
   courses:
-    - course: Elecrical Engineering Undergraduate
+    - course: Electrical Engineering Undergraduate
       institution: Widyatama University
       year: 2021 - present
 superuser: true
