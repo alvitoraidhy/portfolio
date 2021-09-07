@@ -24,6 +24,14 @@ feature:
   icon: js
   icon_pack: fab
   name: JavaScript/TypeScript
+- description: Kanban
+  icon: jira
+  icon_pack: fab
+  name: Jira
+- description: ""
+  icon: confluence
+  icon_pack: fab
+  name: Confluence
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
