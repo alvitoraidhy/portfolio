@@ -31,10 +31,11 @@ experience:
     description: |2-
         Responsibilities include:
 
-        * Modelling database structure
-        * Designing API endpoints
-        * Creating basic front-end
-        * Deploying
+        * Design and develop the database structure of the platform, following the practices in the corresponding industry.
+        * Research, architect, and implement features to the platform while ensuring compliance to today's standard in technology and data-handling.
+        * Create the basic front-end for the interactions with the API to be developed further in the team.
+        * Test the functionalities programmatically and scenario-based.
+        * Maintain the project documentations and demo server.
 
 design:
   columns: '2'
