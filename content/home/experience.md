@@ -31,11 +31,11 @@ experience:
     description: |2-
         Responsibilities include:
 
-        * Design and develop the database structure of the platform, following the practices in the corresponding industry.
-        * Research, architect, and implement features to the platform while ensuring compliance to today's standard in technology and data-handling.
-        * Create the basic front-end for the interactions with the API to be developed further in the team.
-        * Test the functionalities programmatically and scenario-based.
-        * Maintain the project documentations and demo server.
+        * Designed and developed the database structure of the platform, followed the practices in the corresponding industry.
+        * Researched and implemented features to the platform while ensured compliance with the standards in technology and data handling.
+        * Created the basic front-end for the interactions with the API to be developed further by the team.
+        * Tested the functionalities programmatically and scenario-based.
+        * Maintained the project documentation and demo server.
 
 design:
   columns: '2'
