@@ -23,30 +23,34 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.dicoding.com/certificates/6RPN8WO74Z2M
+  date_end: "2024-07-30"
+  date_start: "2021-07-30"
+  description: |
+    Syllabus:
+      - Introduction to Amazon Web Services
+      - Cloud Computation
+      - Global Infrastructure and Reliability
+      - Networking
+      - Storage and Database
+      - Security
+      - Monitoring and Analytics
+      - Pricing and Support
+      - Migration and Innovation
+      - The Cloud Journey
+      - AWS Certified Cloud Practitioner Basics
+  organization: Dicoding
+  organization_url: https://www.dicoding.com/
+  title: Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)
+  url: "https://www.dicoding.com/academies/251"
+- certificate_url: https://www.freecodecamp.org/certification/alvitoraidhy/responsive-web-design
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  date_start: "2020-04-26"
+  description: A project-oriented certification with HTML, CSS, and JS courses, representing approximately 300 hours of coursework.
+  organization: freeCodeCamp
+  organization_url: https://www.freecodecamp.org/
+  title: Responsive Web Design
+  url: https://www.freecodecamp.org/learn/responsive-web-design/
 
 design:
   columns: '2' 
