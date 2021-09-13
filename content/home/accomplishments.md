@@ -27,18 +27,11 @@ item:
   date_end: "2024-07-30"
   date_start: "2021-07-30"
   description: |
-    Syllabus:
-      - Introduction to Amazon Web Services
-      - Cloud Computation
-      - Global Infrastructure and Reliability
-      - Networking
-      - Storage and Database
-      - Security
-      - Monitoring and Analytics
-      - Pricing and Support
-      - Migration and Innovation
-      - The Cloud Journey
-      - AWS Certified Cloud Practitioner Basics
+    From this course I learned the knowledge required for using the Amazon Web Services (AWS) effectively, for example:
+      - Cloud computation services and plans (EC2, ECS, Elastic Beanstalk, and more)
+      - Database and storage options (DynamoDB, Aurora, S3, EFS, and more)
+      - Network and security practices (access control using roles, groups, endpoints, and more)
+      - Pricings and calculations
   organization: Dicoding
   organization_url: https://www.dicoding.com/
   title: Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)
@@ -46,7 +39,16 @@ item:
 - certificate_url: https://www.freecodecamp.org/certification/alvitoraidhy/responsive-web-design
   date_end: ""
   date_start: "2020-04-26"
-  description: A project-oriented certification with HTML, CSS, and JS courses, representing approximately 300 hours of coursework.
+  description: |
+    A project-oriented certification with HTML and CSS courses, representing approximately 300 hours of coursework (according to the website). The knowledge I learned includes:
+      - HTML: common elements, HTML5 semantics, and metadata
+      - CSS: responsive design with CSS Grid and Flexbox
+    As the requirements for the certification, I have made the following projects:
+      - [Tribute Page](https://codepen.io/icarus21/pen/QWjdGLg)
+      - [Survey Form](https://codepen.io/icarus21/pen/PoPWbOp)
+      - [Product Landing Page](https://codepen.io/icarus21/pen/MWaJbxx)
+      - [Technical Documentation Page](https://codepen.io/icarus21/pen/NWGpaXj)
+      - [Personal Portfolio Webpage](https://codepen.io/icarus21/pen/mdemdrR)
   organization: freeCodeCamp
   organization_url: https://www.freecodecamp.org/
   title: Responsive Web Design
