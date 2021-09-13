@@ -44,6 +44,7 @@ item:
       - HTML: common elements, HTML5 semantics, and metadata
       - CSS: responsive design with CSS Grid and Flexbox
 
+
     As the requirements for the certification, I have made the following projects:
       - [Tribute Page](https://codepen.io/icarus21/pen/QWjdGLg)
       - [Survey Form](https://codepen.io/icarus21/pen/PoPWbOp)
