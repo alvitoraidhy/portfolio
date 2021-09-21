@@ -20,7 +20,7 @@ social:
 organizations: []
 education:
   courses:
-    - course: Electrical Engineering Undergraduate
+    - course: Bachelor's degree in Electrical Engineering
       institution: Widyatama University
       year: 2021 - present
     - course: Full Stack Web Developer Nanodegree
