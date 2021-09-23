@@ -22,7 +22,7 @@ education:
   courses:
     - course: Bachelor's degree in Electrical Engineering
       institution: Widyatama University
-      year: 2021 - present
+      year: 2021 - 2025
     - course: Full Stack Web Developer Nanodegree
       institution: Udacity
       year: 2020
